@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">second app</string>
+    <string name="enter_your_name" />
+    <string name="enter_your_name_here">enter your name here...</string>
+    <string name="hello_message">Hello mate!</string>
+    <string name="btn1">Button</string>
+    <string name="btn2">hello</string>
+    <string name="btn3">offer</string>
+    <string name="btn4">new</string>
+    <string name="submit">Submit</string>
+</resources>
