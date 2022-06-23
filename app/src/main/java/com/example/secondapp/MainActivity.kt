@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         val message = findViewById<TextView>(R.id.message)
         val inputMessage = findViewById<EditText>(R.id.name)
         val submitButton = findViewById<Button>(R.id.btnSubmit)
+        val offersButton = findViewById<Button>(R.id.button2)
         var enteredName = ""
 
         submitButton.setOnClickListener{
