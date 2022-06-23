@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/newOffers"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/btn4"
@@ -19,13 +19,13 @@
         app:layout_constraintVertical_bias="1.0" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/btnOffer"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/btn3"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.671"
+        app:layout_constraintHorizontal_bias="0.678"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="1.0" />
@@ -65,7 +65,7 @@
         app:layout_constraintVertical_bias="0.481" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/diwaliBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/btn1"
@@ -77,13 +77,13 @@
         app:layout_constraintVertical_bias="1.0" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/holiBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/btn2"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.352"
+        app:layout_constraintHorizontal_bias="0.331"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="1.0" />
